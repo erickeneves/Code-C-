@@ -44,27 +44,6 @@ Este repositório contém uma coleção de **exercícios**, **exemplos práticos
 
 ---
 
-## 📁 Organização das pastas
-
-```
-📦 seu-repositorio-cpp
-├── algoritmos/
-│   ├── busca_binaria.cpp
-│   ├── ordenacao_bubble.cpp
-│   └── recursao_fatorial.cpp
-├── estruturas/
-│   ├── lista_encadeada.cpp
-│   └── pilha_estatica.cpp
-├── projetos/
-│   ├── simulador_caixa.cpp
-│   └── jogo_adivinhacao.cpp
-├── arquivos/
-│   └── leitura_csv.cpp
-└── README.md
-```
-
----
-
 ## 🧪 Sugestão de uso
 
 - 💡 **Estudo**: Use os exemplos para praticar sintaxe, lógica e algoritmos.
@@ -80,8 +59,6 @@ Contribuições são bem-vindas! Você pode:
 - Corrigir bugs ou melhorar códigos existentes
 - Adicionar novos exemplos
 - Sugerir melhorias no README ou estrutura
-
-Basta abrir um Pull Request ou Issue!
 
 ---
 
