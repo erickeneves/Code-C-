@@ -29,8 +29,8 @@ Este repositório contém uma coleção de **exercícios**, **exemplos práticos
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio-cpp.git
-   cd seu-repositorio-cpp
+   git clone https://github.com/erickeneves/Code-C.git
+   cd Code C
    ```
 
 2. Escolha um arquivo `.cpp` que deseja executar, por exemplo:
